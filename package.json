@@ -1,0 +1,11 @@
+{
+  "name": "lighthouse-stileapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nick Spain <nicholas.spain@stileeducation.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lighthouse": "^8.0.0",
+    "puppeteer": "^10.0.0"
+  }
+}
